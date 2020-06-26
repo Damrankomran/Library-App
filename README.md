@@ -1,10 +1,11 @@
 # Library-App
-*Kitap kaydı yapılabilir
 
-*Yazar kaydı yapılabilir
+* Book CRUD operations
 
-*Stok takipi yapılabilir.
+* Writer CRUD operations
 
-*Kullanıcı kaydı yapılabilir.
+* User CRUD operations
 
-*Kullanıcılara kitap verilebilir.
+* Stock tracking
+
+* Users can be given books.
